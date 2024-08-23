@@ -22,7 +22,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
-Credits to Andrei Buhnici, Bogdan Baicu and Ciprian Balanică for their help and useful advices.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
@@ -30,3 +29,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Firebase
 
 https://console.firebase.google.com/u/0/project/unde-dorm/overview
+
+Credits to Andrei Buhnici, Bogdan Baicu and Ciprian Balanică for their help and useful advices.
