@@ -30,4 +30,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 https://console.firebase.google.com/u/0/project/unde-dorm/overview
 
-Credits to Andrei Buhnici, Bogdan Baicu and Ciprian Balanică for their help and useful advices.
+Acknowledgement:
+
+Credits to Andrei Buhnici, Bogdan Baicu and Ciprian Bălănică for their help and useful advices.
